@@ -1,2 +1,2 @@
-# datas_science_om
+# datasciencecoursera
 A repository to be read by R Studio
